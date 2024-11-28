@@ -37,4 +37,4 @@ I am tech enthusiast <img src="https://media.giphy.com/media/kI3btilUDBNFrM69Dx/
 
 - :zap: Exploring about tech.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/)
+- :mailbox:How to reach me:
